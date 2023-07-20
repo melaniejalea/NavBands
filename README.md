@@ -12,4 +12,4 @@ Cabe destacar que los documentos adjuntados corresponden a las indicaciones para
 
 Este proyecto utiliza la biblioteca SimpleBluetoothTerminal de Kai Morich para facilitar la comunicación por Bluetooth. SimpleBluetoothTerminal es una biblioteca que permite establecer una conexión Bluetooth entre dispositivos y enviar datos fácilmente. 
 Esta bilblioteca es utilizada para el desarrollo de la aplicación con el fin de generar la conexión de una señal enviada desde un dispositvo Android hacia la placa de desarrollo ESP32.
-Se puede encontrar el repositorio original [aquí](https://github.com/kai-morich/SimpleBluetoothTerminal).
+Se puede encontrar el repositorio de esta biblioteca [aquí](https://github.com/kai-morich/SimpleBluetoothTerminal).
