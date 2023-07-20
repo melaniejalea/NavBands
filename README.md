@@ -5,7 +5,7 @@ EL6101-1 - Otoño 2023
 El repositoria consta de: 
 * Manual de Usuario
 * Ficha técnica
-* Códigos del prototipo (tanto software como hardware)
+* Códigos del prototipo
 
 
 Cabe destacar que los documentos adjuntados corresponden a las indicaciones para poder construir y hacer uso del MVP de este proyecto, no corresponde a a las indicaciones para el producto final. 
