@@ -4,7 +4,7 @@ EL6101-1 - Otoño 2023
 
 El repositoria consta de: 
 * Manual de Usuario
-* Ficha técnica (incluye BOM)
+* Manual Técnico (incluye BOM)
 * Códigos del prototipo
 
 
